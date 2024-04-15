@@ -17,18 +17,18 @@ const Footer = () => {
       <div className="flex flex-col gap-8">
         <h1 className="font-bold text-2xl">Company</h1>
         <ul className="flex flex-col gap-8">
-          <li>About</li>
-          <li>Career</li>
-          <li>Mobile</li>
+          <li className="cursor-pointer">About</li>
+          <li className="cursor-pointer">Career</li>
+          <li className="cursor-pointer">Mobile</li>
         </ul>
       </div>
       <div className="flex flex-col gap-8">
         <h1 className="font-bold text-2xl">Contact</h1>
         <ul className="flex flex-col gap-8">
-          <li>Why Travlog?</li>
-          <li>Partner with Us</li>
-          <li>FAQ's</li>
-          <li>Blog</li>
+          <li className="cursor-pointer">Why Travlog?</li>
+          <li className="cursor-pointer">Partner with Us</li>
+          <li className="cursor-pointer">FAQ's</li>
+          <li className="cursor-pointer">Blog</li>
         </ul>
       </div>
       <div className="flex flex-col gap-8">
