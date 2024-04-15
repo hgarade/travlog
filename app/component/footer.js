@@ -27,7 +27,7 @@ const Footer = () => {
         <ul className="flex flex-col gap-8">
           <li className="cursor-pointer">Why Travlog?</li>
           <li className="cursor-pointer">Partner with Us</li>
-          <li className="cursor-pointer">FAQ's</li>
+          <li className="cursor-pointer">FAQ&apos;s</li>
           <li className="cursor-pointer">Blog</li>
         </ul>
       </div>
